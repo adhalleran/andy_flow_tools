@@ -1,6 +1,8 @@
 # andy_flow_tools
 Jupyter notebooks for processing tidy FCS files into gates, joy plots, GMM fits, and more!
 
+NOTE: Currently there are no unit tests for any of the code provided. Caveat emptor. 
+
 The standard workflow is as follows. 
 
 0. 
